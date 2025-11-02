@@ -27,7 +27,7 @@ By completing this lab, you will be able to:
 ## Pre-Lab Preparation
 
 ### System Requirements
-- Linux OS (Ubuntu 20.04+ recommended)
+- Linux OS 
 - Minimum 2GB RAM
 - 5GB free disk space
 - Internet connection
