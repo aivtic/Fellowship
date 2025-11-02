@@ -12,7 +12,7 @@ This repository contains all labs, code samples, vulnerable applications, and re
 
 ---
 
-## **🗂 Repository Structure**
+## **Repository Structure**
 
 ```bash
 was-fellowship-phase1/
@@ -110,11 +110,11 @@ was-fellowship-phase1/
 
 | Week | Lab Code | Activity Name | Status |
 | :--- | :--- | :--- | :--- |
-| 1 | [LAB-2.1.4](COURSE-2-BVWS102-WEB-ESSENTIALS/WEEK-1-HTTP-HTTPS/labs/LAB_GUIDE.md) | Lab - Analyze HTTP Requests/Responses | Mandatory |
-| 2 | [LAB-2.2.3](COURSE-2-BVWS102-WEB-ESSENTIALS/WEEK-2-HTML-CSS-JS/labs/LAB_GUIDE.md) | Lab - Build Simple Webpages | Mandatory |
-| 3 | [LAB-2.3.5](COURSE-2-BVWS102-WEB-ESSENTIALS/WEEK-3-APP-COMPONENTS/labs/LAB_GUIDE.md) | Practice - Identify Potential Security Weaknesses | Mandatory |
-| 4 | [LAB-2.4.2](COURSE-2-BVWS102-WEB-ESSENTIALS/WEEK-4-VULN-OVERVIEW/labs/LAB_GUIDE.md) | Lab - Vulnerability Identification Exercises | Mandatory |
-| 5 | [LAB-2.5.4](COURSE-2-BVWS102-WEB-ESSENTIALS/WEEK-5-SSL-TLS/labs/LAB_GUIDE.md) | Lab - Configure SSL on Test Environments | Mandatory |
+| 1 | [LAB-2.1.4](COURSE-2-BVWS102-WEB-ESSENTIALS/lab1.md) | Lab - Analyze HTTP Requests/Responses | Mandatory |
+| 2 | [LAB-2.2.3](COURSE-2-BVWS102-WEB-ESSENTIALS/lab2.md) | Lab - Build Simple Webpages | Mandatory |
+| 3 | [LAB-2.3.5](COURSE-2-BVWS102-WEB-ESSENTIALS/lab3.md) | Practice - Identify Potential Security Weaknesses | Mandatory |
+| 4 | [LAB-2.4.2](COURSE-2-BVWS102-WEB-ESSENTIALS/lab4.md) | Lab - Vulnerability Identification Exercises | Mandatory |
+| 5 | [LAB-2.5.4](COURSE-2-BVWS102-WEB-ESSENTIALS/lab5) | Lab - Configure SSL on Test Environments | Mandatory |
 
 ---
 
