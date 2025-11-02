@@ -293,5 +293,3 @@ Submit the following:
 - Client-side security alone is insufficient
 
 **Remember:** "Master the flow, master the security. Know the path, know the vulnerabilities."
-
-*Proceed to the next lab where we'll explore SQL Injection vulnerabilities and server-side security measures.*
