@@ -122,11 +122,11 @@ was-fellowship-phase1/
 
 | Week | Lab Code | Activity Name | Status |
 | :--- | :--- | :--- | :--- |
-| 1 | [LAB-3.1.5](COURSE-3-BVWS103-OWASP-TOP-10/WEEK-1-INJECTION/labs/LAB_GUIDE.md) | Lab - Hands-on SQLi & Command Injection Exploitation | Mandatory |
-| 2 | [LAB-3.2.6](COURSE-3-BVWS103-OWASP-TOP-10/WEEK-2-XSS-CSRF/labs/LAB_GUIDE.md) | Lab - Identifying and Exploiting XSS & CSRF | Mandatory |
-| 3 | [LAB-3.3.4](COURSE-3-BVWS103-OWASP-TOP-10/WEEK-3-BROKEN-AUTH/labs/LAB_GUIDE.md) | Lab - Testing Authentication Mechanisms | Mandatory |
-| 4 | [LAB-3.4.7](COURSE-3-BVWS103-OWASP-TOP-10/WEEK-4-MISCONFIG-DATA-EXPOSURE/labs/LAB_GUIDE.md) | Lab - Vulnerability Scanning with Burp Suite/ZAP | Mandatory |
-| 5 | [LAB-3.5.8](COURSE-3-BVWS103-OWASP-TOP-10/WEEK-5-CTF-CHALLENGES/labs/LAB_GUIDE.md) | Lab - OWASP Top 10 CTF-Style Challenges | Mandatory |
+| 1 | [LAB-3.1.5](COURSE-3-BVWS103-OWASP-TOP-10/lab1.md) | Lab - Hands-on SQLi & Command Injection Exploitation | Mandatory |
+| 2 | [LAB-3.2.6](COURSE-3-BVWS103-OWASP-TOP-10/lab2.md) | Lab - Identifying and Exploiting XSS & CSRF | Mandatory |
+| 3 | [LAB-3.3.4](COURSE-3-BVWS103-OWASP-TOP-10/lab3.md) | Lab - Testing Authentication Mechanisms | Mandatory |
+| 4 | [LAB-3.4.7](COURSE-3-BVWS103-OWASP-TOP-10/lab4.md) | Lab - Vulnerability Scanning with Burp Suite/ZAP | Mandatory |
+| 5 | [LAB-3.5.8](COURSE-3-BVWS103-OWASP-TOP-10/lab5.md) | Lab - OWASP Top 10 CTF-Style Challenges | Mandatory |
 
 ---
 
