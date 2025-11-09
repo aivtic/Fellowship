@@ -114,7 +114,7 @@ was-fellowship-phase1/
 | 2 | [LAB-2.2.3](COURSE-2-BVWS102-WEB-ESSENTIALS/lab2.md) | Lab - Build Simple Webpages | Mandatory |
 | 3 | [LAB-2.3.5](COURSE-2-BVWS102-WEB-ESSENTIALS/lab3.md) | Practice - Identify Potential Security Weaknesses | Mandatory |
 | 4 | [LAB-2.4.2](COURSE-2-BVWS102-WEB-ESSENTIALS/lab4.md) | Lab - Vulnerability Identification Exercises | Mandatory |
-| 5 | [LAB-2.5.4](COURSE-2-BVWS102-WEB-ESSENTIALS/lab4.md) | Lab - Configure SSL on Test Environments | Mandatory |
+| 5 | [LAB-2.5.4](COURSE-2-BVWS102-WEB-ESSENTIALS/lab5.md) | Lab - Configure SSL on Test Environments | Mandatory |
 
 ---
 
